@@ -924,5 +924,20 @@
            "John Galt Telescope",
            "DRAO 26m Telescope"
        ]
-   }
+   },
+   "astropeiler": {
+    "source": "Astropeiler Stockert e.V. https://astropeiler.de/",
+    "elevation": 434.0,
+    "name": "Stockert 25-m Radio Telescope",
+    "longitude_unit": "degree",
+    "latitude_unit": "degree",
+    "latitude": 50.5694444,
+    "elevation_unit": "meter",
+    "longitude": 6.72194444,
+    "timezone": "Europe/Berlin",
+    "aliases": [
+       "Astropeiler",
+       "Stockert"
+   ]
+}
 }
